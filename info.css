@@ -2,6 +2,7 @@ body{
     background-color: black;
     width: 1200px;
 }
+
 .rectangle{
     position: absolute;
 width: 730px;
@@ -13,6 +14,7 @@ background: linear-gradient(180deg, rgba(75, 14, 14, 0) 0%, #881212 71.87%);
 border-radius: 40px;
 transform: rotate(-19.76deg);
 }
+
 .rectangle1{
     position: absolute;
 width: 650px;
@@ -24,15 +26,17 @@ background: linear-gradient(180deg, rgba(75, 14, 14, 0) 0%, #881212 71.87%);
 border-radius: 40px;
 transform: rotate(-19.76deg);
 }
+
 a{
     position: absolute;
     width: 308px;
     height: 80px;
     left: 45px;
     top: 43px;
-    background: url(Rectangle\ 23.png);
+    background: url(VishwaLogo.png);
     border-radius :50px;
 }
+
 .about{
     position: absolute;
 width: 218px;
@@ -50,6 +54,7 @@ align-items: center;
 letter-spacing: -0.017em;
 color: #FFFFFF;
 }
+
 #navbar{
     position: absolute;
     width: 1440px;
@@ -76,6 +81,7 @@ color: #FFFFFF;
     
     color: #FFFFFF;
 }
+
 .nav-items1{
     
     position: absolute;
@@ -95,6 +101,7 @@ color: #FFFFFF;
     
     color: #FFFFFF;
 }
+
 .nav-items2{
     position: absolute;
 width: 60px;
@@ -242,7 +249,7 @@ width: 259px;
 height: 263px;
 left: 947px;
 top: 421px;
-background: url(Rectangle\ 50.png);
+background: url(Steg.png);
 border-radius: 10px;
 }
 .image{
